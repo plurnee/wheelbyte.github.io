@@ -40,6 +40,16 @@ footer {
     box-shadow: 10px 10px 5px #000000;
 }
 
+.container-two {
+    width: 1000px;
+    height: 500px;
+    color: white; 
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: justify;
+}
+
 #vid-one {
     margin-top: 80px;
     
