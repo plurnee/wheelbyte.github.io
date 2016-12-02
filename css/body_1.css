@@ -54,6 +54,12 @@ footer {
     
 }
 
+#audio-one {
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #image-one {
     align-content: center;
     width: 500px;
