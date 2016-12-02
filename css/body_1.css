@@ -1,7 +1,6 @@
 body{
 	background: url(../images/sb4.jpg);
-	background-size: auto;
-	background-repeat: no-repeat; 
+	background-size: auto; 
     font-family: "Raleway", sans-serif;
 }
 
@@ -31,15 +30,6 @@ footer {
     margin-left: 200px;
 }
 
-.container-one {
-    width: 1000px;
-    height: 500px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 50px;
-    box-shadow: 10px 10px 5px #000000;
-}
-
 .container-two {
     width: 1000px;
     height: 500px;
@@ -48,6 +38,15 @@ footer {
     margin-left: auto;
     margin-right: auto;
     text-align: justify;
+}
+
+.video-one {
+    width: 1000px;
+    height: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    box-shadow: 10px 10px 5px #000000;
 }
 
 #vid-one {
