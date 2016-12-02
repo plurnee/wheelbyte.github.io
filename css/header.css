@@ -1,15 +1,14 @@
 #wrapper {
     max-width: 960px;
     margin: 0 auto;
-    background-color: #2C5872;
     padding: 20px;
     margin-top: 50px;
-    opacity: 0.9;
+    opacity: 0.8;
     box-shadow: 10px 10px 5px #161515;
 }
 
 header {
-    background-color: #306D63;
+    background-color: #2C5872;
     height: 130px;
     padding: 5px;
     margin-top: 5px;
@@ -35,7 +34,7 @@ header h2 {
     padding: 0px 0 0px 0;
     text-align: center;
     line-height: 32px;
-    background-color: #6B6B6B;
+    background-color: #;
     opacity: 0.7;
     filter: alpha(opacity=50);
 }
@@ -58,8 +57,8 @@ ul .main_menu {
 }
 
 .main_menu a:hover {
-    color: gray;
-    background: white;
-    opacity: 0.9;
+    color: white;
+    background: #2C5872;
+    box-shadow: 10px 10px 5px #161515;
 }
 
